@@ -1,0 +1,40 @@
+*{
+    font-family:sans-serif;
+}
+.links{
+    background-color: teal;
+    color: white;
+}
+.links:hover{
+    background-color: goldenrod;
+    color: white;
+}
+.bi{
+    color: white;
+}
+.bi:hover{
+    color: goldenrod;
+}
+.intro{
+    background-image:url("img/analytics3.png");
+    background-color: goldenrod;
+    background-repeat: no-repeat;
+    margin-top: 8px;
+    width: 600px;
+    height: 500px;
+}
+
+.me{
+    background-image:url("img/analytics\(1\).jpg");
+    background-color: goldenrod;
+    background-repeat: no-repeat;
+    margin-top: 8px;
+    width: 600px;
+    height: 440px;
+}
+
+.content{
+    background-color: white;
+    border-color:teal;
+}
+
